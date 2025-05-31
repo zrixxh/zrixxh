@@ -8,9 +8,9 @@
 ---
 
 ```bash
-Interests:    Reverse engineering, automation, breaking things to understand them  
-Learning:     C#, Python, security basics, API integrations  
-Collab:       Not right now, just observing the matrix  
-Contact:      Discord → https://discord.gg/opq  
-Pronouns:     He/Him  
-Fun Fact:     Always working on stealth side projects  
+👀 Interests:    Reverse engineering, automation, breaking things to understand them
+🌱 Learning:     C#, Python, security basics, API integrations
+💬 Collab?       Not right now, just observing the matrix
+📫 Contact:      Discord → https://discord.gg/opq
+😄 Pronouns:     He/Him
+⚡ Fun Fact:     I’m always working on stealthy side projects 👀
