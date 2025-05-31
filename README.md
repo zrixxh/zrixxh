@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/opq-logo.jpg" width="200" alt="OPQ Logo">
-</p>
-
 # 👋 Hi, I’m @zrixxh
 
 ### 🚀 Developer | Curious Explorer | Lifelong Learner
