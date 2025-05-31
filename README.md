@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center"><code>whoami</code></h1>
-<p align="center"><strong>zrixxh</strong> — Developer. Systems thinker. Digital explorer.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/typing-animation.gif" alt="Typing animation">
+</p>
 
 ---
 
