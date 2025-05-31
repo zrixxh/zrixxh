@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/opq-logo.jpg" width="200" alt="OPQ Logo">
-</p>
+# 👋 Hi, I’m @zrixxh
 
-<h1 align="center"><code>~$ whoami</code></h1>
-<p align="center"><strong>@zrixxh</strong> — coder • tinkerer • tech enthusiast</p>
+### 🚀 Developer | Curious Explorer | Lifelong Learner
 
----
+- 👀 **Interests:** Coding, reverse-engineering, and discovering how systems tick.
+- 🌱 **Currently Learning:** Deep-diving into **C#** and **Python**.
+- 💬 **Collaborations:** Not seeking collabs right now, but always open to cool discussions.
+- 📫 **Contact Me:** [Join my Discord](https://discord.gg/opq)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I’m constantly experimenting with new ideas and projects behind the scenes.
 
-```bash
-👀 Interests:    Reverse engineering, automation, breaking things to understand them
-🌱 Learning:     C#, Python, security basics, API integrations
-💬 Collab?       Not right now, just observing the matrix
-📫 Contact:      Discord → https://discord.gg/opq
-😄 Pronouns:     He/Him
-⚡ Fun Fact:     I’m always working on stealthy side projects 👀
+> _“Built not to follow trends — but to break limits.”_
